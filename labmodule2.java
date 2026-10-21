@@ -16,7 +16,8 @@ public class labmodule2 {
         System.out.println("Name:Nor Laila Shahirah");
         System.out.println("Student ID:S85510"); 
          System.out.println("Programme:Bachelor of Science Computer");
-        
+         System.out.println("Semester:Semester 1");
+         System.out.println("Favourite Language:Java");
     }
     
 }
